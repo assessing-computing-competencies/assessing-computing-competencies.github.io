@@ -7,6 +7,5 @@
 #
 layout: page
 ---
-# Assessing Computing Competencies
 
 This is the home page of the site. 
