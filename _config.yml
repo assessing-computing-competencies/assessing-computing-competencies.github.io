@@ -1,7 +1,7 @@
 title: Assessing Computing Competencies
-author:
-  name: GitHub User
-  email: your-email@domain.com
+# author:
+  # name: GitHub User
+  # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Assessment tools to evaluate demonstration of competencies using the SFIA skills framework
 
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  assessing-computing-competencies.github.io
+    # github:  assessing-computing-competencies.github.io
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
