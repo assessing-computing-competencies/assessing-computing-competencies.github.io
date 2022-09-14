@@ -8,8 +8,8 @@ permalink: /tools/
 * [Enhanced Assessment](#enhanced-assessment)
 * [SFIA-based Assessment](#sfia-based-assessment)
 
-## Simple Assessment 
-Assessment Tool for Scoring Evidence of Demonstrating CC2020 Dispositions
+### Simple Assessment 
+**Assessment Tool for Scoring Evidence of Demonstrating CC2020 Dispositions**
 
 This simple tools suppoprts  instructors in evaluating a student's 
 demonstration of the CC2020 dispositions. The tool applies the expectation for competence set out in ISO 24773: to apply knowledge and skills [...] successful[ly] [...] on an ongoing basis. This implies that each disposition must be demonstrated in multiple activities over the duration of the student's course.
@@ -24,7 +24,7 @@ The outcome is "Pass" if the (configurable) thresholds have been met, otherwise 
 
 The thresholds are derived from the values set for the configuration parameters, which are defined on the next sheet.
 
-### Usage Notes
+#### Usage Notes
 The configuration, input and output areas are denoted by shading:
 * configuration
 * input: *references to the portfolio items*
@@ -36,6 +36,6 @@ Users who wish to reconfigure this tool for a different number of dispositions s
 
 Go to the top of [Tools](/tools/)
 
-## Enhanced Assessment
+### Enhanced Assessment
 
-## SFIA-based Assessment
+### SFIA-based Assessment
