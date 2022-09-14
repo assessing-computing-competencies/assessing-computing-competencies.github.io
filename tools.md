@@ -34,7 +34,7 @@ Non-input cells are locked.
 
 Users who wish to reconfigure this tool for a different number of dispositions should contact the authors for a partially-unlocked version.
 
-Go to the top of [Tools](/tools.md)
+Go to the top of [Tools](/tools/)
 
 ## Enhanced Assessment
 
