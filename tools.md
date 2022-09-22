@@ -3,7 +3,6 @@ layout: page
 title: Tools
 permalink: /tools/
 ---
-
 * [Simple Assessment](#simple_assessment)
 * [Enhanced Assessment](#enhanced-assessment)
 * [SFIA-based Assessment](#sfia-based-assessment)
@@ -37,5 +36,10 @@ Users who wish to reconfigure this tool for a different number of dispositions s
 Go to the top of [Tools](/tools/)
 
 ### Enhanced Assessment
+**An assessment tool for scoring evidence for the demonstration of selected 
+CC2020 dispositions**
 
 ### SFIA-based Assessment
+**An assessment tool for scoring evidence for the demonstration of SFIA 
+Level 3 responsibility characteristics and indirectly for the CC2020 
+dispositions to which they map**

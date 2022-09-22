@@ -48,12 +48,12 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
+# - about.md
  - tools.md
  - portfolios.md
  - cc2020-sfia-mapping.md
  - bibliography.md
- - applications.md
+# - applications.md
  - contacts.md
 
 # Build settings
