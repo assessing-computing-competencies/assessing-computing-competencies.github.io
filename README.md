@@ -9,6 +9,10 @@ Local directory for the GtiHub Pages web site:
 `/Users/mcs/master-projects-theses/unh-comp-master-project.github.io`
 Local port: localhost:4000
 
+Not able to insert images. Tried this in cc2020-sfia-mapping.md
+![Mapping SFIA characteristics to CC2020 dispositions]
+(/assets/images/sfia-mapped-to-cc20-dispositions.png)
+
 Currently installed: ruby, bunlder, rbenv
 ```
 mcs (master) unh-comp-master-project.github.io bundler --version
