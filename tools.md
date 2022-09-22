@@ -9,7 +9,9 @@ permalink: /tools/
 
 ### Simple Assessment 
 **Assessment Tool for Scoring Evidence of Demonstrating CC2020 Dispositions**
+
 [Excel Tool](https://docs.google.com/spreadsheets/d/1rNIv5rAfHXQl2sO5LjERphkocqzAh1Y94vAeAeDUE8s/edit?usp=sharing)
+
 This simple tools suppoprts  instructors in evaluating a student's 
 demonstration of the CC2020 dispositions. The tool applies the expectation 
 for competence set out in ISO 24773: to apply knowledge and skills [...] 
@@ -41,6 +43,7 @@ Go to the top of [Tools](/tools/)
 ### Enhanced Assessment
 **An assessment tool for scoring evidence for the demonstration of selected 
 CC2020 dispositions**
+
 [Excel tool](https://docs.google.com/spreadsheets/d/1r360poBQwDq5JHmnd_LdYL30ACMe2euWFSmcBOYHV-U/edit?usp=sharing)
 
 Go to the top of [Tools](/tools/)
@@ -49,5 +52,7 @@ Go to the top of [Tools](/tools/)
 **An assessment tool for scoring evidence for the demonstration of SFIA 
 Level 3 responsibility characteristics and indirectly for the CC2020 
 dispositions to which they map**
+
 [Excel tool](https://docs.google.com/spreadsheets/d/1ERW8Q_vzKXqQ_JduNb8obu1dQpRZOMi2HjSYbe6FnH0/edit?usp=sharing)
+
 Go to the top of [Tools](/tools/)
