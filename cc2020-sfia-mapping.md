@@ -6,5 +6,5 @@ permalink: /cc2020-sfia-mapping/
 
 
 [Mapping SFIA characteristics to CC2020 dispositions]
-(https://github.com/assessing-computing-competencies/assessing-computing-competencies.github.io/blob/54f89b112e7cd545b19bf99ba2f5c2005c0073a6/sfia-mapped-to-cc2020-dispositions.png)
+(https://github.com/assessing-computing-competencies/assessing-computing-competencies.github.io/blob/3d6a21fae098c762e535ba33283674c86765dbd9/assets/images/sfia-mapped-to-cc2020-dispositions.png)
 
