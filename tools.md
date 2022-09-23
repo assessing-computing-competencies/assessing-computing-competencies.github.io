@@ -46,6 +46,39 @@ CC2020 dispositions**
 
 [Excel tool](https://docs.google.com/spreadsheets/d/1r360poBQwDq5JHmnd_LdYL30ACMe2euWFSmcBOYHV-U/edit?usp=sharing)
 
+This enhanced tool supports  instructors in evaluating a student's demonstration of selected CC2020 dispositions.
+
+The tool applies the expectation for competence set out in ISO 24773: to apply knowledge and skills [...] successful[ly] [...] on an ongoing basis. This implies that each disposition must be demonstrated in multiple activities over the duration of the student's course.
+
+The distinctive feature of this tool is that it allows the designation of each disposition as "essential" or "supplementary".  This is intended to support instructors of courses that focus on particular dispositions (labelled "essential" for the purpose of assessment) to provide feedback to students on how well they have demonstrated those dispositions.
+
+Dispositions are labelled as Essential ("E") or Supplementary ("S") in the parameter entry area, B17:B27.  NB - only "E"s are counted - any other character is effectively equivalent to "S".
+
+The tool is based on counting items of evidence that demonstrate particular dispositions.  It follows that there needs to be some record of such items of evidence - whether an expolict portfolio, a lab notebook, a professional development logbook or whatever, which can be iin any reasonable format, either electronic or paper-based.  The portfolio can cover a defined period ranging from an individual module to the entire program.
+
+Each item of evidence (portfolio item) should be validated - that is, based on evidence, or corroborated, or confirmed by a supervisor or teacher, and should also be identifiable,  by date, entry number, page number, a url or similar.
+
+Each portfolio item may record evidence of the successful demonstration of (aspects of) zero or more dispositions.  The assessment required is simply to read each portfolio item and decide which dispositions, if any, have been demonstrated.  A reference to the portfolio item is then entered against each disposition; the format of the reference is irrelevant - as long as it can be de-referenced!
+
+The tool then performs an overall evaluation by counting the number of portfolio item references entered against each disposition.    
+
+The outcome is "Pass" if the (configurable) thresholds have been met, otherwise "not pass yet" if the student still needs to develop some of the selected dispositions.
+
+The thresholds are derived from the values set for the configuration parameters, which are defined on the next sheet.
+
+#### Usage Notes
+The configuration, input and output areas are denoted by shading:
+* configuration
+* input: *references to the portfolio items*
+* output: *thresholds, scores, and outcomes
+
+Non-input cells are locked.
+
+The dispositions to be evaluated using this tool should be classified, in 
+column B (rows 17:27), as Essential "E" or  Supplementary "S".   Note that portfolio item references against any disposition - whichever its classification - will count towards the overall item score, S_ID.
+
+
+
 Go to the top of [Tools](/tools/)
 
 ### SFIA-based Assessment
